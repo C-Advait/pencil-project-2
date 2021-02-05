@@ -4,3 +4,5 @@ tensorflow
 numpy==1.19.2
 tensorflow-hub
 tornado==6.1.0
+h5py
+git-lfs
