@@ -3,4 +3,3 @@ ipywidgets==7.5.1
 tensorflow
 numpy
 tensorflow-hub
-json
