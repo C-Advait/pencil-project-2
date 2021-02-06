@@ -1,8 +1,0 @@
-voila
-ipywidgets==7.5.1
-tensorflow
-numpy==1.19.2
-tensorflow-hub
-tornado==6.1.0
-h5py
-git-lfs
