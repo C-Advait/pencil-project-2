@@ -1,4 +1,4 @@
-# pencil-project-2
+# Pencil Project
 Next word prediction project for Pencil Learning
 
 ## Video Demonstration
