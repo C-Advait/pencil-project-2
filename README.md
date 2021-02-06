@@ -26,3 +26,7 @@ Resulting dataset had 233000 unique words, of which the most 100000 most common 
 Model was trained using a GTX 1070ti for 3 epochs, resulting in an accuracy of 0.01.  
 It was not trained for further iterations due to loss not decreasing significantly.  
 A greater amount of data was not used due to time and memory limitations.
+
+## Hosting
+Hosting was done locally using Voila with IpyWidgets. Due to issues with git lfs and using standard apps such as
+MyBinder and Heroku, the public domain hosting was unfortunately unable to be completed. 
