@@ -2,7 +2,7 @@
 Next word prediction project for Pencil Learning
 
 ## Video Demonstration
-![video demonstration](video_demonstration.gif)
+![video demonstration](model_example.gif)
 
 ## Model Information
 Model is built on Tensorflow 2.4.1.  
